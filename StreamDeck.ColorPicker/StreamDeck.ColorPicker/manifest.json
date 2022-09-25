@@ -12,15 +12,15 @@
       ],
       "SupportedInMultiActions": false,
       "Tooltip": "Allows to pick a pixel color and show its information.",
-      "UUID": "com.victorgrycuk.static.picker",
+      "UUID": "com.silentecho.static.picker",
       "PropertyInspectorPath": "PropertyInspector/ColorPickerPI.html"
     }
   ],
-  "Author": "Victor Grycuk",
+  "Author": "Silent Echo",
   "Name": "Color Picker",
   "Description": "Colorblind Helper & Color Picker for Stream Deck.\nShows a color's name, its RGB or hexadecimal value.",
   "Icon": "Images/pluginIcon",
-  "URL": "https://github.com/VictorGrycuk/streamdeck-color-picker",
+  "URL": "https://github.com/SilentEchoGM/streamdeck-color-picker",
   "Version": "1.4.1",
   "CodePath": "StreamDeck.ColorPicker",
   "Category": "Color Picker",
