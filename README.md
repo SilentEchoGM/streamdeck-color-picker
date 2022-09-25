@@ -1,3 +1,5 @@
+The following is the readme from the original repo.
+
 # Color Picker for StreamDeck
 
 ## Description
